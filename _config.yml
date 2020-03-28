@@ -1,10 +1,11 @@
 # Setup
-title: Poole
-tagline: The Jekyll Butler
-url: https://getpoole.com
+title: "[quantify.humanity]"
+tagline: Thoughts on the human condition.
+description: "Make each day count. Build your legacy as a human being. Save the world. "
+url: https://blog.quanthum.com
 paginate: 1
 baseurl: ""
-permalink: pretty
+permalink: /:title:output_ext
 
 # Gems
 plugins:
@@ -33,9 +34,9 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Mark Otto
-  url: https://twitter.com/mdo
-  email: markdotto@gmail.com
+  name: Laurent Yim
+  url: https://twitter.com/quant_hum
+  email: blog@quanthum.com
 
 # Custom vars
 version: 3.0.0
