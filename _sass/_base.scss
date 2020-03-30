@@ -41,6 +41,9 @@ a {
   &:focus {
     text-decoration: underline;
   }
+  &:visited {
+    color: #7E3DDC;
+  }
 
   strong {
     color: inherit;
