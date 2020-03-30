@@ -1,14 +1,42 @@
 ---
 layout: post
 title: Only Women Can Save The World
-permalink: only-women-can-save-the-world
 ---
 
-How to fix humanity.
+How to fix humanity. Women bear the burden of civilization.
 
 -----
 
-### Sex and Status
+### Sex Needs Status
+
+Lorem ipsum dolor sit amet, [recognition](http://0.0.0.0:4000/recognition), metus risus ultricies ex, sit amet vulputate sapien mauris nec orci. Aliquam laoreet velit eu finibus molestie. Nam congue sed massa at malesuada. Mauris condimentum tincidunt volutpat. Aliquam vitae vehicula purus. Aliquam odio sem, interdum eget quam vel, tincidunt egestas eros. Maecenas sit amet dictum mi. Mauris non consectetur diam. Nam lorem est, posuere eu quam quis, varius sagittis dolor. Pellentesque consectetur, nisi nec faucibus rhoncus, nisl elit bibendum lorem, eu fermentum est urna ac purus. Etiam a dui at erat molestie elementum iaculis a leo. Curabitur tortor eros, accumsan non nunc eget, volutpat euismod augue. Suspendisse vel quam iaculis, volutpat eros in, accumsan nibh. Sed tincidunt justo nisi. Nam interdum condimentum risus, sed condimentum justo rhoncus lobortis.
+ adipiscing elit. Morbi et iaculis ligula. Duis et mollis quam. Quisque magna tellus, bibendum at arcu ut, dapibus fringilla metus. Nunc bibendum tellus sed mattis imperdiet. Praesent sit amet tortor et arcu maximus aliquet nec ut sem. Morbi cursus sapien sed tempus ullamcorper. In facilisis urna et vestibulum lobortis. Phasellus massa sapien, lacinia vitae scelerisque sed, facilisis id nisl. Nunc mollis massa vel mi dignissim, quis blandit purus feugiat. Proin sed suscipit elit. Praesent ac commodo sapien, in ultrices neque.
+
+Duis nec nisi venenatis, dignissim [status](http://0.0.0.0:4000/status) quis, ullamcorper velit. Morbi sed ex ut sapien vulputate efficitur. Mauris nibh elit, egestas ac cursus a, facilisis id sem. Quisque id blandit erat. Donec ex urna, lacinia cursus dignissim consequat, tempus at eros. Fusce nunc lorem, posuere ac lectus id, faucibus condimentum nunc. Morbi bibendum congue nisi, eu convallis urna euismod non. Vestibulum lobortis posuere turpis, sit amet dignissim lectus fringilla et. Donec elementum, felis a vestibulum volutpat, erat urna ornare lacus, at tristique magna mauris ut dolor. Suspendisse quis scelerisque enim.
+
+Phasellus quam turpis, lectus sit amet congue eget, molestie et orci. Aliquam et orci venenatis, bibendum leo a, elementum mauris. In fermentum libero eget felis vestibulum gravida. Integer dictum dui nulla, sit amet elementum mi lacinia sit amet. In tincidunt, ex id consequat cursus, nunc nisi consectetur sem, nec luctus velit felis eu metus. Etiam pulvinar dignissim lorem, nec vehicula mi sollicitudin quis. Maecenas euismod ultrices ipsum.
+
+Nam scelerisque, mauris a laoreet elementum, metus risus ultricies ex, sit amet vulputate sapien mauris nec orci. Aliquam laoreet velit eu finibus molestie. Nam congue sed massa at malesuada. Mauris condimentum tincidunt volutpat. Aliquam vitae vehicula purus. Aliquam odio sem, interdum eget quam vel, tincidunt egestas eros. Maecenas sit amet dictum mi. Mauris non consectetur diam. Nam lorem est, posuere eu quam quis, varius sagittis dolor. Pellentesque consectetur, nisi nec faucibus rhoncus, nisl elit bibendum lorem, eu fermentum est urna ac purus. Etiam a dui at erat molestie elementum iaculis a leo. Curabitur tortor eros, accumsan non nunc eget, volutpat euismod augue. Suspendisse vel quam iaculis, volutpat eros in, accumsan nibh. Sed tincidunt justo nisi. Nam interdum condimentum risus, sed condimentum justo rhoncus lobortis.
+
+Nullam non suscipit mi. Pellentesque quis tellus id nunc cursus mollis. Sed tincidunt, ante vel feugiat vehicula, lacus libero rutrum justo, at bibendum erat nulla non metus. Duis eget finibus justo, quis sagittis orci. In laoreet non sem sed posuere. Cras rhoncus a leo sed semper. Cras metus lectus, tincidunt quis ex eget, tempor auctor purus. Praesent pretium sodales lectus, vitae congue dui blandit volutpat. Morbi blandit porttitor sapien porttitor placerat. Duis id lectus hendrerit, semper metus sodales, venenatis magna. Maecenas id erat odio. Integer ac finibus mi.
+
+Vivamus a ex lorem. Etiam ut nibh interdum, placerat nibh volutpat, aliquet elit. Nulla feugiat augue sit amet massa vehicula, vel iaculis lorem blandit. Morbi dictum tincidunt nulla id sagittis. Sed at orci sed risus posuere sagittis eu sit amet velit. Aenean sed feugiat turpis, sit.
+
+### Status Breeds Inequality
+
+Lorem ipsum dolor sit amet, [recognition](http://0.0.0.0:4000/recognition) adipiscing elit. Morbi et iaculis ligula. Duis et mollis quam. Quisque magna tellus, bibendum at arcu ut, dapibus fringilla metus. Nunc bibendum tellus sed mattis imperdiet. Praesent sit amet tortor et arcu maximus aliquet nec ut sem. Morbi cursus sapien sed tempus ullamcorper. In facilisis urna et vestibulum lobortis. Phasellus massa sapien, lacinia vitae scelerisque sed, facilisis id nisl. Nunc mollis massa vel mi dignissim, quis blandit purus feugiat. Proin sed suscipit elit. Praesent ac commodo sapien, in ultrices neque.
+
+Duis nec nisi venenatis, dignissim lectus quis, ullamcorper velit. Morbi sed ex ut sapien vulputate efficitur. Mauris nibh elit, egestas ac cursus a, facilisis id sem. Quisque id blandit erat. Donec ex urna, lacinia cursus dignissim consequat, tempus at eros. Fusce nunc lorem, posuere ac lectus id, faucibus condimentum nunc. Morbi bibendum congue nisi, eu convallis urna euismod non. Vestibulum lobortis posuere turpis, sit amet dignissim lectus fringilla et. Donec elementum, felis a vestibulum volutpat, erat urna ornare lacus, at tristique magna mauris ut dolor. Suspendisse quis scelerisque enim.
+
+Phasellus quam turpis, pharetra sit amet congue eget, molestie et orci. Aliquam et orci venenatis, bibendum leo a, elementum mauris. In fermentum libero eget felis vestibulum gravida. Integer dictum dui nulla, sit amet elementum mi lacinia sit amet. In tincidunt, ex id consequat cursus, nunc nisi consectetur sem, nec luctus velit felis eu metus. Etiam pulvinar dignissim lorem, nec vehicula mi sollicitudin quis. Maecenas euismod ultrices ipsum.
+
+Nam scelerisque, mauris a laoreet consectetur, metus risus ultricies ex, sit amet vulputate sapien mauris nec orci. Aliquam laoreet velit eu finibus molestie. Nam congue sed massa at malesuada. Mauris condimentum tincidunt volutpat. Aliquam vitae vehicula purus. Aliquam odio sem, interdum eget quam vel, tincidunt egestas eros. Maecenas sit amet dictum mi. Mauris non consectetur diam. Nam lorem est, posuere eu quam quis, varius sagittis dolor. Pellentesque consectetur, nisi nec faucibus rhoncus, nisl elit bibendum lorem, eu fermentum est urna ac purus. Etiam a dui at erat molestie elementum iaculis a leo. Curabitur tortor eros, accumsan non nunc eget, volutpat euismod augue. Suspendisse vel quam iaculis, volutpat eros in, accumsan nibh. Sed tincidunt justo nisi. Nam interdum condimentum risus, sed condimentum justo rhoncus lobortis.
+
+Nullam non suscipit mi. Pellentesque quis tellus id nunc cursus mollis. Sed tincidunt, ante vel feugiat vehicula, lacus libero rutrum justo, at bibendum erat nulla non metus. Duis eget finibus justo, quis sagittis orci. In laoreet non sem sed posuere. Cras rhoncus a leo sed semper. Cras metus lectus, tincidunt quis ex eget, tempor auctor purus. Praesent pretium sodales lectus, vitae congue dui blandit volutpat. Morbi blandit porttitor sapien porttitor placerat. Duis id lectus hendrerit, semper metus sodales, venenatis magna. Maecenas id erat odio. Integer ac finibus mi.
+
+Vivamus a ex lorem. Etiam ut nibh interdum, placerat nibh volutpat, aliquet elit. Nulla feugiat augue sit amet massa vehicula, vel iaculis lorem blandit. Morbi dictum tincidunt nulla id sagittis. Sed at orci sed risus posuere sagittis eu sit amet velit. Aenean sed feugiat turpis, sit.
+
+### Status Is Recognition
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi et iaculis ligula. Duis et mollis quam. Quisque magna tellus, bibendum at arcu ut, dapibus fringilla metus. Nunc bibendum tellus sed mattis imperdiet. Praesent sit amet tortor et arcu maximus aliquet nec ut sem. Morbi cursus sapien sed tempus ullamcorper. In facilisis urna et vestibulum lobortis. Phasellus massa sapien, lacinia vitae scelerisque sed, facilisis id nisl. Nunc mollis massa vel mi dignissim, quis blandit purus feugiat. Proin sed suscipit elit. Praesent ac commodo sapien, in ultrices neque.
 
@@ -22,7 +50,7 @@ Nullam non suscipit mi. Pellentesque quis tellus id nunc cursus mollis. Sed tinc
 
 Vivamus a ex lorem. Etiam ut nibh interdum, placerat nibh volutpat, aliquet elit. Nulla feugiat augue sit amet massa vehicula, vel iaculis lorem blandit. Morbi dictum tincidunt nulla id sagittis. Sed at orci sed risus posuere sagittis eu sit amet velit. Aenean sed feugiat turpis, sit.
 
-### Status and Inequality
+### Recognition Is Quanthum
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi et iaculis ligula. Duis et mollis quam. Quisque magna tellus, bibendum at arcu ut, dapibus fringilla metus. Nunc bibendum tellus sed mattis imperdiet. Praesent sit amet tortor et arcu maximus aliquet nec ut sem. Morbi cursus sapien sed tempus ullamcorper. In facilisis urna et vestibulum lobortis. Phasellus massa sapien, lacinia vitae scelerisque sed, facilisis id nisl. Nunc mollis massa vel mi dignissim, quis blandit purus feugiat. Proin sed suscipit elit. Praesent ac commodo sapien, in ultrices neque.
 
@@ -36,30 +64,4 @@ Nullam non suscipit mi. Pellentesque quis tellus id nunc cursus mollis. Sed tinc
 
 Vivamus a ex lorem. Etiam ut nibh interdum, placerat nibh volutpat, aliquet elit. Nulla feugiat augue sit amet massa vehicula, vel iaculis lorem blandit. Morbi dictum tincidunt nulla id sagittis. Sed at orci sed risus posuere sagittis eu sit amet velit. Aenean sed feugiat turpis, sit.
 
-### Status and Recognition
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi et iaculis ligula. Duis et mollis quam. Quisque magna tellus, bibendum at arcu ut, dapibus fringilla metus. Nunc bibendum tellus sed mattis imperdiet. Praesent sit amet tortor et arcu maximus aliquet nec ut sem. Morbi cursus sapien sed tempus ullamcorper. In facilisis urna et vestibulum lobortis. Phasellus massa sapien, lacinia vitae scelerisque sed, facilisis id nisl. Nunc mollis massa vel mi dignissim, quis blandit purus feugiat. Proin sed suscipit elit. Praesent ac commodo sapien, in ultrices neque.
-
-Duis nec nisi venenatis, dignissim lectus quis, ullamcorper velit. Morbi sed ex ut sapien vulputate efficitur. Mauris nibh elit, egestas ac cursus a, facilisis id sem. Quisque id blandit erat. Donec ex urna, lacinia cursus dignissim consequat, tempus at eros. Fusce nunc lorem, posuere ac lectus id, faucibus condimentum nunc. Morbi bibendum congue nisi, eu convallis urna euismod non. Vestibulum lobortis posuere turpis, sit amet dignissim lectus fringilla et. Donec elementum, felis a vestibulum volutpat, erat urna ornare lacus, at tristique magna mauris ut dolor. Suspendisse quis scelerisque enim.
-
-Phasellus quam turpis, pharetra sit amet congue eget, molestie et orci. Aliquam et orci venenatis, bibendum leo a, elementum mauris. In fermentum libero eget felis vestibulum gravida. Integer dictum dui nulla, sit amet elementum mi lacinia sit amet. In tincidunt, ex id consequat cursus, nunc nisi consectetur sem, nec luctus velit felis eu metus. Etiam pulvinar dignissim lorem, nec vehicula mi sollicitudin quis. Maecenas euismod ultrices ipsum.
-
-Nam scelerisque, mauris a laoreet elementum, metus risus ultricies ex, sit amet vulputate sapien mauris nec orci. Aliquam laoreet velit eu finibus molestie. Nam congue sed massa at malesuada. Mauris condimentum tincidunt volutpat. Aliquam vitae vehicula purus. Aliquam odio sem, interdum eget quam vel, tincidunt egestas eros. Maecenas sit amet dictum mi. Mauris non consectetur diam. Nam lorem est, posuere eu quam quis, varius sagittis dolor. Pellentesque consectetur, nisi nec faucibus rhoncus, nisl elit bibendum lorem, eu fermentum est urna ac purus. Etiam a dui at erat molestie elementum iaculis a leo. Curabitur tortor eros, accumsan non nunc eget, volutpat euismod augue. Suspendisse vel quam iaculis, volutpat eros in, accumsan nibh. Sed tincidunt justo nisi. Nam interdum condimentum risus, sed condimentum justo rhoncus lobortis.
-
-Nullam non suscipit mi. Pellentesque quis tellus id nunc cursus mollis. Sed tincidunt, ante vel feugiat vehicula, lacus libero rutrum justo, at bibendum erat nulla non metus. Duis eget finibus justo, quis sagittis orci. In laoreet non sem sed posuere. Cras rhoncus a leo sed semper. Cras metus lectus, tincidunt quis ex eget, tempor auctor purus. Praesent pretium sodales lectus, vitae congue dui blandit volutpat. Morbi blandit porttitor sapien porttitor placerat. Duis id lectus hendrerit, semper metus sodales, venenatis magna. Maecenas id erat odio. Integer ac finibus mi.
-
-Vivamus a ex lorem. Etiam ut nibh interdum, placerat nibh volutpat, aliquet elit. Nulla feugiat augue sit amet massa vehicula, vel iaculis lorem blandit. Morbi dictum tincidunt nulla id sagittis. Sed at orci sed risus posuere sagittis eu sit amet velit. Aenean sed feugiat turpis, sit.
-
-### Recognition and Quanthum
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi et iaculis ligula. Duis et mollis quam. Quisque magna tellus, bibendum at arcu ut, dapibus fringilla metus. Nunc bibendum tellus sed mattis imperdiet. Praesent sit amet tortor et arcu maximus aliquet nec ut sem. Morbi cursus sapien sed tempus ullamcorper. In facilisis urna et vestibulum lobortis. Phasellus massa sapien, lacinia vitae scelerisque sed, facilisis id nisl. Nunc mollis massa vel mi dignissim, quis blandit purus feugiat. Proin sed suscipit elit. Praesent ac commodo sapien, in ultrices neque.
-
-Duis nec nisi venenatis, dignissim lectus quis, ullamcorper velit. Morbi sed ex ut sapien vulputate efficitur. Mauris nibh elit, egestas ac cursus a, facilisis id sem. Quisque id blandit erat. Donec ex urna, lacinia cursus dignissim consequat, tempus at eros. Fusce nunc lorem, posuere ac lectus id, faucibus condimentum nunc. Morbi bibendum congue nisi, eu convallis urna euismod non. Vestibulum lobortis posuere turpis, sit amet dignissim lectus fringilla et. Donec elementum, felis a vestibulum volutpat, erat urna ornare lacus, at tristique magna mauris ut dolor. Suspendisse quis scelerisque enim.
-
-Phasellus quam turpis, pharetra sit amet congue eget, molestie et orci. Aliquam et orci venenatis, bibendum leo a, elementum mauris. In fermentum libero eget felis vestibulum gravida. Integer dictum dui nulla, sit amet elementum mi lacinia sit amet. In tincidunt, ex id consequat cursus, nunc nisi consectetur sem, nec luctus velit felis eu metus. Etiam pulvinar dignissim lorem, nec vehicula mi sollicitudin quis. Maecenas euismod ultrices ipsum.
-
-Nam scelerisque, mauris a laoreet elementum, metus risus ultricies ex, sit amet vulputate sapien mauris nec orci. Aliquam laoreet velit eu finibus molestie. Nam congue sed massa at malesuada. Mauris condimentum tincidunt volutpat. Aliquam vitae vehicula purus. Aliquam odio sem, interdum eget quam vel, tincidunt egestas eros. Maecenas sit amet dictum mi. Mauris non consectetur diam. Nam lorem est, posuere eu quam quis, varius sagittis dolor. Pellentesque consectetur, nisi nec faucibus rhoncus, nisl elit bibendum lorem, eu fermentum est urna ac purus. Etiam a dui at erat molestie elementum iaculis a leo. Curabitur tortor eros, accumsan non nunc eget, volutpat euismod augue. Suspendisse vel quam iaculis, volutpat eros in, accumsan nibh. Sed tincidunt justo nisi. Nam interdum condimentum risus, sed condimentum justo rhoncus lobortis.
-
-Nullam non suscipit mi. Pellentesque quis tellus id nunc cursus mollis. Sed tincidunt, ante vel feugiat vehicula, lacus libero rutrum justo, at bibendum erat nulla non metus. Duis eget finibus justo, quis sagittis orci. In laoreet non sem sed posuere. Cras rhoncus a leo sed semper. Cras metus lectus, tincidunt quis ex eget, tempor auctor purus. Praesent pretium sodales lectus, vitae congue dui blandit volutpat. Morbi blandit porttitor sapien porttitor placerat. Duis id lectus hendrerit, semper metus sodales, venenatis magna. Maecenas id erat odio. Integer ac finibus mi.
-
-Vivamus a ex lorem. Etiam ut nibh interdum, placerat nibh volutpat, aliquet elit. Nulla feugiat augue sit amet massa vehicula, vel iaculis lorem blandit. Morbi dictum tincidunt nulla id sagittis. Sed at orci sed risus posuere sagittis eu sit amet velit. Aenean sed feugiat turpis, sit.
+-----

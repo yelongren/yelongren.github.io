@@ -1,11 +1,12 @@
 # Setup
 title: "[quantify.humanity]"
-tagline: Thoughts on the human condition.
-description: "Make each day count. Build your legacy as a human being. Save the world. "
+#~ tagline: ...to fix it. # Thoughts on the human condition.
+description: "Make each day count. Save the world. "
 url: https://blog.quanthum.com
 paginate: 1
 baseurl: ""
-permalink: /:title:output_ext
+permalink: /:title
+host: 0.0.0.0 # https://stackoverflow.com/questions/16608466/connect-to-a-locally-built-jekyll-server-using-mobile-devices-in-the-lan
 
 # Gems
 plugins:
