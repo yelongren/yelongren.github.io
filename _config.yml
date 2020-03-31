@@ -3,15 +3,12 @@ title: "[quantify.humanity]"
 tagline: Only Women Can Save The World # ...to fix it. # Thoughts on the human condition.
 description: "Make each day count. Save the world. "
 url: https://blog.quanthum.com
-paginate: 1
 baseurl: ""
 permalink: /:title
 host: 0.0.0.0 # https://stackoverflow.com/questions/16608466/connect-to-a-locally-built-jekyll-server-using-mobile-devices-in-the-lan
 
 # Gems
 plugins:
-  - jekyll-gist
-  - jekyll-paginate
   - jekyll-seo-tag
 
 # Optimize Jekyll
