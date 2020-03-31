@@ -7,7 +7,7 @@ How to fix humanity. Women bear the burden of civilization.
 
 -----
 
-### Sex Needs Status
+### Sex Requires Status
 
 Lorem ipsum dolor sit amet, [recognition]({% post_url 2016-01-02-recognition %}), metus risus ultricies ex, sit amet vulputate sapien mauris nec orci. Aliquam laoreet velit eu finibus molestie. Nam congue sed massa at malesuada. Mauris condimentum tincidunt volutpat. Aliquam vitae vehicula purus. Aliquam odio sem, interdum eget quam vel, tincidunt egestas eros. Maecenas sit amet dictum mi. Mauris non consectetur diam. Nam lorem est, posuere eu quam quis, varius sagittis dolor. Pellentesque consectetur, nisi nec faucibus rhoncus, nisl elit bibendum lorem, eu fermentum est urna ac purus. Etiam a dui at erat molestie elementum iaculis a leo. Curabitur tortor eros, accumsan non nunc eget, volutpat euismod augue. Suspendisse vel quam iaculis, volutpat eros in, accumsan nibh. Sed tincidunt justo nisi. Nam interdum condimentum risus, sed condimentum justo rhoncus lobortis.
  adipiscing elit. Morbi et iaculis ligula. Duis et mollis quam. Quisque magna tellus, bibendum at arcu ut, dapibus fringilla metus. Nunc bibendum tellus sed mattis imperdiet. Praesent sit amet tortor et arcu maximus aliquet nec ut sem. Morbi cursus sapien sed tempus ullamcorper. In facilisis urna et vestibulum lobortis. Phasellus massa sapien, lacinia vitae scelerisque sed, facilisis id nisl. Nunc mollis massa vel mi dignissim, quis blandit purus feugiat. Proin sed suscipit elit. Praesent ac commodo sapien, in ultrices neque.
