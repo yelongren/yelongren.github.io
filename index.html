@@ -6,14 +6,14 @@ title: Home
 <div class="posts">
   <article class="post">
     <h1 class="post-title">
-      <a href="{{ site.baseurl }}{{ site.posts.first.url }}">
-        {{ site.posts.first.title }}
+      <a href="{{ site.baseurl }}{{ site.posts.last.url }}">
+        {{ site.posts.last.title }}
       </a>
     </h1>
 <!--
     <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
 -->
-    {{ site.posts.first.content }}
+    {{ site.posts.last.content }}
     {% include share-bar.html %}
   </article>
 </div>
