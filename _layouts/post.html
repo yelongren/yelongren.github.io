@@ -7,3 +7,14 @@ layout: default
   {{ content }}
   {% include share-bar.html %}
 </article>
+
+<!--
+{% if site.posts != empty %}
+<aside class="related">
+  <small><strong>All posts:</strong> updated <time datetime="{{ site.posts.first.date | date_to_xmlschema }}">{{ site.posts.first.date | date_to_string }}</time></small><br>
+    {% for post in site.posts %}
+      {% unless post == site.posts.last %}<small><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></small>{% endunless %}
+    {% endfor %}
+</aside>
+{% endif %}
+-->
