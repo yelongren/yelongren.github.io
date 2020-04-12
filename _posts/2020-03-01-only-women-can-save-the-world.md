@@ -17,7 +17,7 @@ What does being a better man mean? Whatever it means, men have no say in it. Not
 
 ### Status Breeds Inequality
 
-Women want status and men need it. The universal pursuit of status drives society forward. As people better themselves, they better society along with them. Women, through their choices, have a civilizing effect.
+Women want status and men need it. The universal pursuit of status drives society forward. As people better themselves, they better society along with them. Civilization is built on women's choices.
 
 Not all kinds of status are created equal. We obsessively favor the conspicuous kind: easily shown and easily seen. Socio-economic status and physical beauty. Money and looks. This is to be expected. We are not competing within a small tribe of related kin anymore. The social arena is now global and full of strangers. And the best way to impress a stranger is through money and looks.
 
@@ -37,11 +37,11 @@ Recognition permeates our entire lives. It starts at birth, when we are a given 
 
 As we give and receive recognition, we acknowledge love, friendship and family. Everything that makes life worthwhile. Recognition at a small scale, within our tribe, is all about personal relationships and therefore, always meaningful.
 
-Imagine if society was less about conspicuous status and more about recognition. Kindness, gratitude and contribution would be rewarded. The world would be less extreme and more pleasant to live in. This is possible if women show us the way. As the first and final arbiters of status, they can make the world a better place by choosing recognition and the meaningful human values it represents.
+Imagine if society was less about conspicuous status and more about recognition. Kindness and generosity would be rewarded. The world would be less extreme and more humane to live in. This is possible if women show us the way. As the first and final arbiters of status, they can make the world a better place by choosing recognition and the meaningful human values it represents.
 
 ### Recognition Is Quanthum
 
-Recognition must be made more tangible and visible, or it will be overshadowed by conspicuous status. It must be recorded, quantified and displayed every day of our lives. Enter [Quanthum](https://www.quanthum.com/){:target="_blank"}, the recognition diary. By joining the Quanthum community you may…
+How can we favor recognition? How can we acknowledge each other as human beings and make it valuable? By simply remembering those moments every day of our lives. Enter [Quanthum](https://www.quanthum.com/){:target="_blank"}, a tool made precisely to quantify what makes us human, recognition. With Quanthum you may…
 
 **Keep an existential diary.**  
 **How?** By acknowledging a human being and sharing a memory with them. Just once a day.  
@@ -63,6 +63,6 @@ Recognition must be made more tangible and visible, or it will be overshadowed b
 **How?** By using [quant.hum] and spreading its tags around the web.  
 **Why?** To reduce human inequality. When status is overwhelmingly tied to money, a resource created at will, it fosters materialism, greed, and exploitation. When tied to the number of days we have to share, we are all in the same order of magnitude. Sharing a memory with someone invites them exclusively to [quant.hum] and tags are available at https://www.quanthum.com/tag/human-name/humanId
 
-Women, through their choices, bear the burden of civilization and give us purpose. One such choice may be to use [Quanthum](https://www.quanthum.com/){:target="_blank"} and re-enchant the world with more meaning. Whatever the future holds, a woman’s choice, as foundational as it is, should not be hindered or coerced in any way. Some women would rather not choose and not have children, than settle for lesser men and undermine the progress of humanity. This is an extraordinary sacrifice made for all of us, albeit unconsciously. As only tragic heroines can, only women can save the world.
+As women bear the burden of civilization, their choices should not be hindered or coerced in any way. One choice may be to use [Quanthum](https://www.quanthum.com/){:target="_blank"} and re-enchant the world with more meaning. Men would follow. To save us from ourselves, we all would. Another choice may be to not choose and not have children, rather than settle for lesser men and undermine the progress of humanity. This is an extraordinary sacrifice made for all of us, albeit unconsciously. As only tragic heroines can, only women can save the world.
 
 -----
