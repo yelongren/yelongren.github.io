@@ -8,6 +8,7 @@ permalink: /:title
 host: 0.0.0.0 # https://stackoverflow.com/questions/16608466/connect-to-a-locally-built-jekyll-server-using-mobile-devices-in-the-lan
 
 # Gems
+markdown: kramdown
 plugins:
   - jekyll-seo-tag
 
@@ -31,9 +32,9 @@ sass:
 # ga_analytics: UA-000000-0
 
 # Specify the author for blog posts
-author:
-  name: Laurent Yim
-  url: https://twitter.com/quant_hum
-  email: blog@quanthum.com
+#~ author:
+  #~ name: Laurent Yim
+  #~ url: https://twitter.com/quant_hum
+  #~ email: blog@quanthum.com
 
 # Custom vars

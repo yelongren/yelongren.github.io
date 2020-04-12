@@ -41,16 +41,28 @@ Imagine if society was less about conspicuous status and more about recognition.
 
 ### Recognition Is Quanthum
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi et iaculis ligula. Duis et mollis quam. Quisque magna tellus, bibendum at arcu ut, dapibus fringilla metus. Nunc bibendum tellus sed mattis imperdiet. Praesent sit amet tortor et arcu maximus aliquet nec ut sem. Morbi cursus sapien sed tempus ullamcorper. In facilisis urna et vestibulum lobortis. Phasellus massa sapien, lacinia vitae scelerisque sed, facilisis id nisl. Nunc mollis massa vel mi dignissim, quis blandit purus feugiat. Proin sed suscipit elit. Praesent ac commodo sapien, in ultrices neque.
+Recognition must be made more tangible and visible, or it will be overshadowed by conspicuous status. It must be recorded, quantified and displayed every day of our lives. Enter [Quanthum](https://www.quanthum.com/){:target="_blank"}, the recognition diary. By joining the Quanthum community you may…
 
-Duis nec nisi venenatis, dignissim lectus quis, ullamcorper velit. Morbi sed ex ut sapien vulputate efficitur. Mauris nibh elit, egestas ac cursus a, facilisis id sem. Quisque id blandit erat. Donec ex urna, lacinia cursus dignissim consequat, tempus at eros. Fusce nunc lorem, posuere ac lectus id, faucibus condimentum nunc. Morbi bibendum congue nisi, eu convallis urna euismod non. Vestibulum lobortis posuere turpis, sit amet dignissim lectus fringilla et. Donec elementum, felis a vestibulum volutpat, erat urna ornare lacus, at tristique magna mauris ut dolor. Suspendisse quis scelerisque enim.
+**Keep an existential diary.**  
+**How?** By acknowledging a human being and sharing a memory with them. Just once a day.  
+**Why?** To cut out the noise and distraction of modern life. To remember only what and who, truly mattered to you. No friending, following or messaging. No likes, comments or ads.
 
-Phasellus quam turpis, pharetra sit amet congue eget, molestie et orci. Aliquam et orci venenatis, bibendum leo a, elementum mauris. In fermentum libero eget felis vestibulum gravida. Integer dictum dui nulla, sit amet elementum mi lacinia sit amet. In tincidunt, ex id consequat cursus, nunc nisi consectetur sem, nec luctus velit felis eu metus. Etiam pulvinar dignissim lorem, nec vehicula mi sollicitudin quis. Maecenas euismod ultrices ipsum.
+**Express and share your memories.**  
+**How?** By choosing a minimal and visible privacy setting for each memory.  
+**Why?** To reconcile the conflicting needs for peer recognition and decent privacy. Share privately (you and one other person), publicly (the [quant.hum] community), or secretly (only you). We are not the same person to different people, to the public at large, or even to ourselves.
 
-Nam scelerisque, mauris a laoreet elementum, metus risus ultricies ex, sit amet vulputate sapien mauris nec orci. Aliquam laoreet velit eu finibus molestie. Nam congue sed massa at malesuada. Mauris condimentum tincidunt volutpat. Aliquam vitae vehicula purus. Aliquam odio sem, interdum eget quam vel, tincidunt egestas eros. Maecenas sit amet dictum mi. Mauris non consectetur diam. Nam lorem est, posuere eu quam quis, varius sagittis dolor. Pellentesque consectetur, nisi nec faucibus rhoncus, nisl elit bibendum lorem, eu fermentum est urna ac purus. Etiam a dui at erat molestie elementum iaculis a leo. Curabitur tortor eros, accumsan non nunc eget, volutpat euismod augue. Suspendisse vel quam iaculis, volutpat eros in, accumsan nibh. Sed tincidunt justo nisi. Nam interdum condimentum risus, sed condimentum justo rhoncus lobortis.
+**Dedicate them to anyone that ever lived.**  
+**How?** By acknowledging not only friends and family, but any human being, whether they be living or deceased, famous or anonymous.  
+**Why?** To stand against forgetfulness and impermanence. To remember anyone that made us who we are today. Dedicate your days to a loved one who has passed away, to a famous author or celebrity, whose work has moved you.
 
-Nullam non suscipit mi. Pellentesque quis tellus id nunc cursus mollis. Sed tincidunt, ante vel feugiat vehicula, lacus libero rutrum justo, at bibendum erat nulla non metus. Duis eget finibus justo, quis sagittis orci. In laoreet non sem sed posuere. Cras rhoncus a leo sed semper. Cras metus lectus, tincidunt quis ex eget, tempor auctor purus. Praesent pretium sodales lectus, vitae congue dui blandit volutpat. Morbi blandit porttitor sapien porttitor placerat. Duis id lectus hendrerit, semper metus sodales, venenatis magna. Maecenas id erat odio. Integer ac finibus mi.
+**Redefine human value and status.**  
+**How?** By sharing your first memory with a new member, Jesse Smith [0.0], for example, their [quant.hum] tag changes to [0.1] and yours to [1.0]. Memories are thus aggregated into a single tag for every human being.  
+**Why?** To challenge socio-economic status or physical beauty as the be-all and end-all of human worth. The two numbers in a tag hopefully represent less conspicuous but essential qualities such as gratitude and contribution.
 
-Vivamus a ex lorem. Etiam ut nibh interdum, placerat nibh volutpat, aliquet elit. Nulla feugiat augue sit amet massa vehicula, vel iaculis lorem blandit. Morbi dictum tincidunt nulla id sagittis. Sed at orci sed risus posuere sagittis eu sit amet velit. Aenean sed feugiat turpis, sit.
+**Lead a humanist revolution.**  
+**How?** By using [quant.hum] and spreading its tags around the web.  
+**Why?** To reduce human inequality. When status is overwhelmingly tied to money, a resource created at will, it fosters materialism, greed, and exploitation. When tied to the number of days we have to share, we are all in the same order of magnitude. Sharing a memory with someone invites them exclusively to [quant.hum] and tags are available at https://www.quanthum.com/tag/human-name/humanId
+
+Women, through their choices, bear the burden of civilization and give us purpose. One such choice may be to use [Quanthum](https://www.quanthum.com/){:target="_blank"} and re-enchant the world with more meaning. Whatever the future holds, a woman’s choice, as foundational as it is, should not be hindered or coerced in any way. Some women would rather not choose and not have children, than settle for lesser men and undermine the progress of humanity. This is an extraordinary sacrifice made for all of us, albeit unconsciously. As only tragic heroines can, only women can save the world.
 
 -----
