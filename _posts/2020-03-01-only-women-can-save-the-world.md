@@ -21,7 +21,7 @@ Women want status and men need it. The universal pursuit of status drives societ
 
 Not all kinds of status are created equal. We obsessively favor the conspicuous kind: easily shown and easily seen. Socio-economic status and physical beauty. Money and looks. This is to be expected. We are not competing within a small tribe of related kin anymore. The social arena is now global and full of strangers. And the best way to impress a stranger is through money and looks.
 
-Conspicuous status brings about extreme inequality among us. We are born with varying looks that we have no hope to change unless we gain yet a more unequal quality: money. Money makes a few human lives, a thousand times, a million times, a billion times more valuable than others. Do we really want to believe that?
+Conspicuous status brings about extreme inequality among us. We are born with varying looks that we have no hope to change unless we gain yet a more unequal quality: money. Money makes a few human lives, a thousand times, a million times, a billion times more valuable than others. Do we really believe that?
 
 To even stand a chance in such a ruthless game, we may become extremely vain and superficial, greedy and exploitative. We may put aside morality and empathy, because in the end, they are all strangers right?
 
@@ -37,11 +37,11 @@ Recognition permeates our entire lives. It starts at birth, when we are a given 
 
 As we give and receive recognition, we acknowledge love, friendship and family. Everything that makes life worthwhile. Recognition at a small scale, within our tribe, is all about personal relationships and therefore, always meaningful.
 
-Imagine if society was less about conspicuous status and more about recognition. Kindness and generosity would be rewarded. The world would be less extreme and more humane to live in. This is possible if women show us the way. As the first and final arbiters of status, they can make the world a better place by choosing recognition and the meaningful human values it represents.
+Imagine if society was less about conspicuous status and more about recognition. Kindness and generosity would be rewarded. The world would be less extreme and more humane to live in. This is possible if women show us the way. As the first and final arbiters of status, they can choose recognition and its profound human values.
 
 ### Recognition Is Quanthum
 
-How can we favor recognition? How can we acknowledge each other as human beings and make it valuable? By simply remembering those moments every day of our lives. Enter [Quanthum](https://www.quanthum.com/){:target="_blank"}, a tool made precisely to quantify what makes us human, recognition. With Quanthum you may…
+How can we favor recognition? How can we acknowledge each other and make it not only valuable but visible? By simply remembering those moments every day of our lives. Enter [Quanthum](https://www.quanthum.com/){:target="_blank"}, a tool made precisely to quantify what makes us human. With Quanthum you may:
 
 **Keep an existential diary.**  
 **How?** By acknowledging a human being and sharing a memory with them. Just once a day.  
@@ -63,6 +63,6 @@ How can we favor recognition? How can we acknowledge each other as human beings 
 **How?** By using [quant.hum] and spreading its tags around the web.  
 **Why?** To reduce human inequality. When status is overwhelmingly tied to money, a resource created at will, it fosters materialism, greed, and exploitation. When tied to the number of days we have to share, we are all in the same order of magnitude. Sharing a memory with someone invites them exclusively to [quant.hum] and tags are available at https://www.quanthum.com/tag/human-name/humanId
 
-As women bear the burden of civilization, their choices should not be hindered or coerced in any way. One choice may be to use [Quanthum](https://www.quanthum.com/){:target="_blank"} and re-enchant the world with more meaning. Men would follow. To save us from ourselves, we all would. Another choice may be to not choose and not have children, rather than settle for lesser men and undermine the progress of humanity. This is an extraordinary sacrifice made for all of us, albeit unconsciously. As only tragic heroines can, only women can save the world.
+Women bear the burden of civilization so their choices must not be hindered or coerced in any way. One choice may be to use [Quanthum](https://www.quanthum.com/){:target="_blank"} and re-enchant the world with more meaning. Men would follow. To save us from ourselves, we all would. Another choice may be to not choose and not have children, rather than settle for lesser men and undermine the progress of humanity. This is an extraordinary sacrifice made for all of us, albeit unconscious. As only tragic heroines can, only women can save the world.
 
 -----
