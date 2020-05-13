@@ -3,7 +3,7 @@ layout: post
 title: Only Women Can Save The World
 ---
 
-*An actionable way to fix humanity today, or at least try.*
+*An actionable way to fix humanity today.*
 
 -----
 
@@ -57,7 +57,7 @@ How can we favor recognition? How can we acknowledge each other and make it not 
 
 **Redefine human value and status.**  
 **How?** By sharing your first memory with a new member, Jesse Smith [0.0], for example, their [quant.hum] tag changes to [0.1] and yours to [1.0]. Memories are thus aggregated into a single tag for every human being.  
-**Why?** To challenge socio-economic status or physical beauty as the be-all and end-all of human worth. The two numbers in a tag hopefully represent less conspicuous but essential qualities such as gratitude and contribution.
+**Why?** To challenge socio-economic status or physical beauty as the be-all and end-all of human worth. The two numbers in a tag would represent less conspicuous but essential qualities such as gratitude and contribution.
 
 **Lead a humanist revolution.**  
 **How?** By using [quant.hum] and spreading its tags around the web.  
